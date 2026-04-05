@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+img{
+    width: 40vw;
+}
+
+a{
+    display: inline-block;
+    margin-top: 20px;
+    color: blue;
+}
+
+#escena1{
+    background-image: url("assets/Fachada.jpg");
+    background-size: cover;
+}
+
+#escena2{
+    background-image: url("assets/Entrada.jpg");
+    background-size: cover;
+}
+
+#escena3{
+    background-image: url("assets/Tribunas.jpg");
+    background-size: cover;
+}
+
+#escena4{
+    background-image: url("assets/Cancha.jpg");
+    background-size: cover;
+}
+
+#escena5{
+    background-image: url("assets/Trofeos.jpg");
+    background-size: cover;
+}
