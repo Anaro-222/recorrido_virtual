@@ -17,6 +17,12 @@ a{
     background-image: url("assets/Fachada.jpg");
     background-size: cover;
 }
+.caja {        
+  color: rgb(41, 63, 255);         
+  font-size: 20px;
+  background-color: #ffffff;
+  width: 100%;
+}
 
 #escena2{
     background-image: url("assets/Entrada.jpg");
@@ -29,7 +35,7 @@ a{
 }
 
 #escena4{
-    background-image: url("assets/Cancha.jpg");
+    background-image: url("assets/Cancha.jpeg");
     background-size: cover;
 }
 
