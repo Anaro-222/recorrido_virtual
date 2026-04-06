@@ -18,12 +18,15 @@ a{
     background-size: cover;
 }       
 .botonindex a {
-  background-color: rgba(0, 0, 0, 0.6);
-  color: rgb(190, 190, 190);
+  background-color: rgba(4, 1, 180, 0.6);
+  color: rgba(243, 227, 136, 0.904);
   padding: 12px 20px;
   border-radius: 12px;
   font-weight: bold;
   transition: all 0.3s ease;
+  position:absolute;
+  Top: 500px;
+
 }
 .botonindex a:hover {
   background-color: rgba(255, 255, 255, 0.2);
@@ -38,7 +41,16 @@ a{
   border-radius: 12px;
   font-weight: bold;
 }
-
+.botonaudio {
+  display: inline-block;
+  background-color: rgba(4, 1, 180, 0.6);
+  color: rgb(243, 227, 136, 0.904);
+  padding: 12px 20px;
+  border-radius: 12px;
+  text-decoration: none;
+  position:absolute;
+  Top: 200px;
+}
 
 #escena1{
     background-image: url("assets/santiago fondo.jpg");
